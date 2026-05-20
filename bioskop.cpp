@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout << "project algoo";
+    cout << "pindahin projectnyaa";
 }
